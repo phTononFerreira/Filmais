@@ -1,0 +1,115 @@
+.filmeEspecifico {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    flex-direction: column;
+    padding: 1% 30%;
+}
+
+.filmeEspecifico h1 {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+.filmeEspecifico img {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 0;
+    border-radius: 15px;
+    max-height: 330px;
+}
+
+.filmeEspecifico .resumo {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin: 20px 0;
+}
+
+.filmeEspecifico .avaliacao-esp {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.filmeEspecifico .duracao {
+    font-size: 24px;
+    margin: 20px;
+}
+
+.container{
+    background-color: rgba(255, 255, 255, 0.096);
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.detalhes-esp{
+    background-color: white;
+    width: fit-content;
+    border-radius: 15px;
+    margin-top: 20px;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0;
+}
+
+span{
+    display: flex;
+    align-items: center;
+}
+
+.opcoes{
+    text-align: start;
+    display: flex;
+    align-items: center;
+}
+
+.bto-addFav, .bto-trailer{
+    background-color: white;
+    border: none;
+    color: #202020;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    transition-duration: 0.5s;
+    font-weight: 700;
+    height: 80px;
+    padding: 10px 40PX;
+    margin-top: 15px;
+    margin-right: 15px;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+
+.bto-trailer{
+    background-color: #FF0000;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+.bto-addFav{
+    background-color: #ff004c;
+    color: white;
+    width: 50%;
+}
+
+.bto-addFav:hover{
+    background-color: white !important;
+    color: #ff004c !important;
+}
+
+

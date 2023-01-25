@@ -1,0 +1,89 @@
+.grade-filmes {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 65px;
+    padding: 2%;
+}
+
+.filme {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: fit-content;
+}
+
+.poster {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.detalhes {
+    margin-top: 8px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    padding: 8px;
+    display: flex;
+    font-size: 120%;
+}
+
+.detalhes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo{
+    order: 1;
+    font-weight: 700;
+}
+
+.avaliacao, .ano {
+    order: 2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.poster-gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.568), rgba(0, 0, 0, 0));
+    border-radius: 15px;
+}
+
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-weight: 600;
+  }
+  
+  .spinner {
+    border: 4px solid #f3f3f3; /* change color as per your preference */
+    border-top: 4px solid #3a3a3a; /* change color as per your preference */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin-left: 30px;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+

@@ -1,0 +1,32 @@
+header{
+    background-image: linear-gradient(to right, rgb(10, 10, 10), rgba(10, 10, 10, 0.397), rgba(0, 0, 0, 0.05));
+    border-bottom: solid rgba(255, 255, 255, 0.05) 1px;
+    padding: 1% 5%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.fav-bto{
+    background-color: transparent;
+    border: none;
+    color: #ddd;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    transition-duration: 0.5s;
+    font-weight: 600;
+}
+
+.fav-bto:hover{
+    color: black;
+    background-color: #ddd;
+}
+
+.logo{
+    border-radius: 15px;
+}
