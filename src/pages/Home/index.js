@@ -14,7 +14,7 @@ function Home() {
             for (let i = 1; i <= pages; i++) {
                 const response = await api.get("trending/movie/week", {
                     params: {
-                        api_key: "68ecc2589de11d7d81e0e23f7d06c000",
+                        api_key: "API_KEY",
                         language: "pt-BR",
                         page: i,
                     }
