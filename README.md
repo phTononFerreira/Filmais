@@ -33,5 +33,8 @@ Fav-films é uma aplicação web feita com React.js para gerenciamento de filmes
 
 <div align="center">
          <img width="900" src="https://media.discordapp.net/attachments/746544819773636611/1067908145705390160/image.png?width=1440&height=551">
-       
+         <br/>
+         <img width="900" src="https://cdn.discordapp.com/attachments/746544819773636611/1074740091471282246/image.png">
+         <br/>
+         <img width="900" src="https://cdn.discordapp.com/attachments/746544819773636611/1074740148127924295/image.png">
 </div>
