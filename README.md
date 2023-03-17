@@ -3,7 +3,7 @@
          <h1>Filmais</h1>
 </div>
 
-Fav-films é uma aplicação web feita com React.js para gerenciamento de filmes favoritos. Ela utiliza uma API externa para buscar informações sobre filmes e possibilita que o usuário salve seus filmes favoritos em sua local storage do navegador.
+Filmais é uma aplicação web feita com React.js para gerenciamento de filmes favoritos. Ela utiliza uma API externa para buscar informações sobre filmes e possibilita que o usuário salve seus filmes favoritos em sua local storage do navegador.
 
 > https://filmais.vercel.app/
 
