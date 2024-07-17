@@ -1,5 +1,6 @@
+![image](https://github.com/user-attachments/assets/6d6da2b4-7b27-4925-8fe0-9e65b49c28bf)
+
 <div align="center">
-         <img width="350" src="https://media.discordapp.net/attachments/746544819773636611/1065278701048180776/film-logo-png-transparent.png?width=676&height=676">
          <h1>Filmais</h1>
 </div>
 
@@ -33,14 +34,7 @@ Filmais é uma aplicação web feita com React.js para gerenciamento de filmes f
 - A lista de filmes favoritos é salva na local storage do navegador, portanto, os filmes adicionados à lista estarão disponíveis apenas no navegador em que foram adicionados.
 - O projeto é para fins didáticos.
 
-<div align="center">
-         <img width="900" src="https://media.discordapp.net/attachments/746544819773636611/1067908145705390160/image.png?width=1440&height=551">
-         <br/>
-         <br/>
-         <br/>
-         <img width="900" src="https://cdn.discordapp.com/attachments/746544819773636611/1074740091471282246/image.png">
-         <br/>
-         <br/>
-         <br/>
-         <img width="900" src="https://cdn.discordapp.com/attachments/746544819773636611/1074740148127924295/image.png">
-</div>
+![image](https://github.com/user-attachments/assets/4d7eb0e7-9e5a-43d7-86c2-81ed2fb7b39b)
+![image](https://github.com/user-attachments/assets/a08b0e59-c69d-4069-a005-f8febd376d2f)
+
+
